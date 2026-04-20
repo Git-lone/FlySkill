@@ -136,7 +136,7 @@ cp -r clarify-demand-uncertainty ~/.claude/skills/
 
 ## 📚 相关文档
 
-- **SKILL.md** - Skill 主文件，定义触发条件和工作流程
+- **SKILL.md** - Skill 主流程引导文件，定义触发条件和工作流程
 - **README.md** - 完整的使用说明
 - **CHANGELOG.md** - 详细的版本更新记录
 - **docs/PROJECT_STRUCTURE.md** - 项目结构说明
